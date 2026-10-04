@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="REKADO Technologies — Built on Indian Space. Engineered for the World." width="100%" />
+  <img src="banner.png" alt="REKADO Technologies" width="100%" />
 </p>
 
 <h3 align="center">Sovereign Aerospace and Defence technology.</h3>
